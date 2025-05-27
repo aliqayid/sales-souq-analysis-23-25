@@ -17,7 +17,6 @@
 - `excel-version/`: تحليل إحصائي أولي بصيغة Excel
 - `powerbi-version/`: ملف Power BI dashboard
 - `tableau-version/`: ملف Tableau dashboard
-- - [Excel Analysis File](excel-version/Sales-Analysis.xlsx)
 - [Power BI Dashboard](E-Commerce-Sales-Summary-for-the-Years-2023–2025.pbit)
 - [Excel Analysis File](E-Commerce-Sales-Summary-for-the-Years-2023–2025.xlsx)
 - [Tableau Dashboard](E-Commerce-Sales-Summary-for-the-Years-2023–2025.twbx)
