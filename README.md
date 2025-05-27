@@ -18,9 +18,9 @@
 - `powerbi-version/`: ملف Power BI dashboard
 - `tableau-version/`: ملف Tableau dashboard
 - `images/`: معاينة لبعض اللوحات التفاعلية
-- ![Dashboard-Excel](images/Dashboard-Excel.png)
-- ![Dashboard-Power-bi](images/Dashboard-Power-bi.png)
-- ![Dashboard-Tableau](images/Dashboard-Tableau.png)
+- ![Dashboard-Excel](images/Dashboard-Excel)
+- ![Dashboard-Power-bi](images/Dashboard-Power-bi)
+- ![Dashboard-Tableau](images/Dashboard-Tableau)
 
 
 📌 **ملاحظات**
